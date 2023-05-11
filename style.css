@@ -1,0 +1,35 @@
+
+h1{
+  text-align: center;
+  padding: 2px;
+  color:tomato;
+  font: 2em sans-serif;
+}
+
+p{
+   text-align: center;
+}
+
+.border{
+    text-align: center;
+}
+
+.box{
+
+    height: 470px;
+    margin: 2px 230px;
+   border: 2px solid orange;
+    text-align: center;
+    border-radius: 10px  10px  10px 10px;
+
+}
+
+
+.submit{
+  width: 13%;
+  background-color: orange;
+}
+
+.date{
+  
+}
